@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+.container{
+	margin:0;
+	background-color:#f5f5f5;
+	padding:30px;
+}
+.block{
+	background-color:white;
+	
+}
+p:first-child{
+	padding:20px 20px 0px 20px;
+}
+.auth{
+	text-align:right;
+	padding-right:20px;
+	padding-bottom:20px
+}
